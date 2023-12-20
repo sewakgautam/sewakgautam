@@ -1,6 +1,4 @@
-## Ko n ni chiwa  sewak de su do u zo yo ro shi ku!
-
-### **Goedendag**!
+## Hey hoe gaat het !!
 
 ```js
 class Person {
